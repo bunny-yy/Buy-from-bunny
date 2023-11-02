@@ -1,0 +1,88 @@
+@media only screen and (max-width: 1142px) {
+
+    .logo img {
+        width: 50px;
+        margin-right: 0px;
+    }
+
+    .nav-list {
+        flex-direction: column;
+        white-space: wrap;
+    }
+
+    .navbar {
+        flex-direction: column;
+        transition: all 0.7s ease-out;
+        height: 447px;
+    }
+
+    .rightNav {
+        text-align: center;
+    }
+
+    .box-main {
+        flex-direction: column-reverse;
+        max-width: 100%;
+    }
+
+    #search {
+        width: 100%;
+        padding: 5px 0px ;
+    }
+
+    .btn-sm{
+        margin-top: 10px;
+    }
+
+    .burger {
+        display: block;
+    }
+
+    .h-nav-resp {
+        height: 72px;
+    }
+
+    .v-class-resp {
+        opacity: 0;
+    }
+
+    .secRight-amazon {
+        flex-direction: column-reverse;
+    }
+
+    .secLeft-fiverr {
+        flex-direction: column-reverse;
+    }
+
+    .secLeft-fiverr .text-small {
+        height: 270px;
+    }
+
+    .text-big {
+        text-align: left;
+    }
+
+    .text-small {
+        text-align: left;
+    }
+
+    .buttons {
+        text-align: left;
+    }
+
+    .paras {
+        padding: 0px;
+    }
+
+    .container p {
+        height: 400px;
+    }
+
+    .form{
+        padding: 30px;
+    }
+
+    .form-input {
+        width: 90%;
+    }
+}
